@@ -1,0 +1,54 @@
+// Delete two of the following three lines, leaving only the true statement and fill in the blanks.
+
+1) I've completed this statement by myself entirely.
+-> Two people worked on this assignment:
+   1) Paul Boutot  - pboutot@ryerson.ca
+   2) Joseph Grgic - jgrgic@ryerson.ca
+
+//	Place your attributions below:
+//      
+//      SteamVR Plugin by Valve Corporation
+//      https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647
+//      
+//      
+//      VRTK - Virtual Reality Toolkit - [ VR Toolkit ] by Sysdia Solutions Ltd
+//      https://assetstore.unity.com/packages/tools/integration/vrtk-virtual-reality-toolkit-vr-toolkit-64131
+//      
+//      
+//      Battle Cannon by ZugZug Art
+//      https://assetstore.unity.com/packages/3d/environments/fantasy/battle-cannon-70589
+//            
+//      
+//      Standard Assets (for Unity 2017.3) by Unity Technologies
+//      https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2017-3-32351#content
+//      
+//      
+//      Small Cave Kit by Wonder Games
+//      https://assetstore.unity.com/packages/3d/small-cave-kit-49372
+//      
+//      
+//      Military target by NikiYani
+//      https://assetstore.unity.com/packages/3d/environments/military-target-136071
+//      
+//      
+//      Number 1 V1 3D Model by printable_models
+//      https://free3d.com/3d-model/number-1-v1--739231.html
+//      
+//      
+//      Number 2 V1 3D Model by printable_models
+//      https://free3d.com/3d-model/number-2-v1--285321.html
+//      
+//      
+//      Number 3 V1 3D Model by printable_models
+//      https://free3d.com/3d-model/number-3-v1--746730.html
+//      
+//      
+//      Minecart by Lucas Kiel
+//      https://sketchfab.com/3d-models/minecart-b1c5cdd807e04ed5863cc6f91128fe31
+//      
+//	Toon Shader by Roystan
+//	https://roystan.net/articles/toon-shader.html
+//	
+//	Seans Water - Free Water Shader
+//	Original reddit thread: https://www.reddit.com/r/Unity3D/comments/9borx7/seans_water_free_water_shader_see_comments_for/
+//	.zip Download: https://www.dropbox.com/s/pd17likd2jlrv91/SeansWater.zip?dl=0
